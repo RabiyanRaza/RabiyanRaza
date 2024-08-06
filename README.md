@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Auto Spa Car Wash](https://autospa-carwash.netlify.app)
 
-- 🌱 I’m currently learning **JavaScript and then Angular**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **rabiyanraza@gmail.com**
 
